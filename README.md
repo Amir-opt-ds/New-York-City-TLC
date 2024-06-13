@@ -82,16 +82,16 @@ N= not a store and forward trip
 
 **Total_amount**: The total amount charged to passengers. Does not include cash tips.
 
-We aim to:
+## We aim to:
 
-1. Get information from the raw data
+1. **Get information from the raw data**
    1.1 Compare the revenue of different days of the week and months of the year
    1.2 Compare the number of rides on different days of the week and months of the year
    1.3 Mean tip amount per number of passengers
 
-2. Conduct an A/B test to check whether or not there's a relationship between total fare amount and payment type.
+2. **Conduct an A/B test** to check whether or not there's a relationship between total fare amount and payment type.
 
-3. Build a linear regression model to predict taxi fare amounts.
+3. **Build linear regression models** to predict taxi fare amounts.
 
-4. Build machine learning models (Random Forest, XGBoost) to predict if a customer will not leave a tip.
+4. **Build machine learning models** (Random Forest, XGBoost) to predict if a customer will not leave a tip.
    
