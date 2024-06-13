@@ -1,3 +1,6 @@
+
+![alt text]([http://url/to/img.png](https://www.cityguideny.com/columnpic/ndnyc-taxi1.jpg))
+
 # Project Overview and Purpose
 This is a project from Google Advanced Data Analytics.
 
