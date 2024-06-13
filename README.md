@@ -90,7 +90,9 @@ N= not a store and forward trip
 1. **Get information from the raw data**
    
    1.1 Compare the revenue of different days of the week and months of the year
+   
    1.2 Compare the number of rides on different days of the week and months of the year
+   
    1.3 Mean tip amount per number of passengers
 
 3. **Conduct an A/B test** to check whether or not there's a relationship between total fare amount and payment type.
