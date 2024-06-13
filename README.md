@@ -1,5 +1,5 @@
 
-![alt text]([https://www.cityguideny.com/columnpic/ndnyc-taxi1.jpg])
+![alt text](https://www.cityguideny.com/columnpic/ndnyc-taxi1.jpg)
 
 # Project Overview and Purpose
 This is a project from Google Advanced Data Analytics.
