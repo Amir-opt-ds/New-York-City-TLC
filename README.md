@@ -5,7 +5,7 @@ We aim to conduct a data analytics project for the New York City Taxi and Limous
 
 The dataset was downloaded from **https://www.kaggle.com/datasets/raminhuseyn/new-york-city-taxi-and-limousine-project/data**
 
-The dataset contains:
+The dataset columns are:
 
 **ID**: Trip identification number
 
